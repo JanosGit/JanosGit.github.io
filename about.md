@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is a blog for all topics around developing my first open source audio plugin, the OJD. I'll post various stuff here, from in depth nerdy audio programing topics to information also interesting for non-programmers.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Website](https://schrammel.io)
+[E-Mail](mailto:io@schrammel.io)
