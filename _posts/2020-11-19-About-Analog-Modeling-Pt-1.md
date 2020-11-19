@@ -3,7 +3,7 @@ layout: post
 title: About analog modeling part 1 – General thoughts
 ---
 
-While I've been working a bit as audio plugin developer now, analogue circuit modeling is something that has not been part of my daily job until now. Neither was the design of analogue audio circuits. So this part of the OJD was quite an interesting challenge for me as well, especially with my electrical engineering background. There might be experts with far more knowledge in this field out there, but here is what I learned so far... be prepared, the upcoming post(s) might require some knowledge in digital signal processing ;)
+While I've been working a bit as audio plugin developer now, analog circuit modeling is something that has not been part of my daily job until now. Neither was the design of analog audio circuits. So this part of the OJD was quite an interesting challenge for me as well, especially with my electrical engineering background. There might be experts with far more knowledge in this field out there, but here is what I learned so far... be prepared, the upcoming post(s) might require some knowledge in digital signal processing ;)
 
 ### Which modeling approach to chose?
 There are various approaches on how to model analog audio circuits with digital signal processing. They can be more or less grouped into three groups:
